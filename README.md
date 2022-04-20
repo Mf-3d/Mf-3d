@@ -23,7 +23,8 @@ MMDとかNode.jsとかLOONAとかRed VelvetとかApinkとかが好きです。
 |2022年1月29日|thinkingに加入|
 |2022年2月3日?|Flune-Browserの開発を開始|
 |2022年2月20日?|LiquidWorldをLiquidVerseに改名|
+|2022年4月12日|Terrescotの開発を開始|
 
 ## Stats
-[![github-chart](https://github-chart.vercel.app/api?user=Mf-3d)](https://github.com/rokumura7/github-chart)
+![github-chart](https://github-chart.vercel.app/api?user=Mf-3d)
 ![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=Mf-3d&hide=issues)

@@ -25,6 +25,7 @@ MMDとかNode.jsとかLOONAとかRed VelvetとかApinkとかが好きです。
 |2022年2月20日?|LiquidWorldをLiquidVerseに改名|
 |2022年4月12日|Terrescotの開発を開始|
 |2022年4月22日|Lunowseの開発を開始|
+|2022年4月23日|GitHubアイコンを変更 (これにより初代フ◯アアイコンを使用したアカウントは消滅)|
 
 
 ## Stats

@@ -26,9 +26,10 @@ MMDとかNode.jsとかLOONAとかRed VelvetとかApinkとかが好きです。
 |2022年4月12日|Terrescotの開発を開始|
 |2022年4月22日|Lunowseの開発を開始|
 |2022年4月23日|GitHubアイコンを変更 (これにより初代フ◯アアイコンを使用したアカウントは消滅)|
+|2022年4月29日|LINEアカウントにログインできなくなる|
 
 
 ## Stats
 ![github-chart](https://github-chart.vercel.app/api?user=Mf-3d)
-![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=Mf-3d&hide=issues)
+![mf7cli's github stats](https://github-readme-stats.vercel.app/api?username=Mf-3d&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mf-3d&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

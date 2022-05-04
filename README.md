@@ -5,7 +5,8 @@ MMDとかNode.jsとかLOONAとかRed VelvetとかApinkとかが好きです。
 
 ## 所属グループ
 今のところは[thinking](https://github.com/thinking-grp)と、
-[LiquidVerse](https://github.com/liquidverse)に入ってるよ。
+[LiquidVerse](https://github.com/liquidverse)、
+[Quaestio](https://github.com/quaestiojp)に入ってるよ。
 
 ## 歴史(?)
 |  年月日  |  できごと  |
@@ -27,6 +28,7 @@ MMDとかNode.jsとかLOONAとかRed VelvetとかApinkとかが好きです。
 |2022年4月22日|Lunowseの開発を開始|
 |2022年4月23日|GitHubアイコンを変更 (これにより初代フ◯アアイコンを使用したアカウントは消滅)|
 |2022年4月29日|LINEアカウントにログインできなくなる|
+|2022年5月1日|Quaestioに加入|
 
 
 ## Stats

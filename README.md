@@ -4,7 +4,6 @@
 MMDとかNode.jsとかLOONAとかRed VelvetとかApinkとかが好きです。
 
 ## 所属グループ
-今のところは[thinking](https://github.com/thinking-grp)と、
 [LiquidVerse](https://github.com/liquidverse)、
 [Quaestio](https://github.com/quaestiojp)に入ってるよ。
 

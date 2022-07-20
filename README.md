@@ -15,3 +15,5 @@
 
 ### SNSアカウント
 - [Twitter (@made_in_apple_) 🐤](https://twitter.com/made_in_apple_)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/made_in_apple_?style=for-the-badge)

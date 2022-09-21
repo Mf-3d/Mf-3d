@@ -12,6 +12,7 @@
 ### 開発しているソフト
 - [Flune-Browser 🌏](https://github.com/mf-3d/flune-browser)
 - [Terrescot 🧐](https://github.com/mf-3d/terrescot)
+- [Minor-Browser Migrator 🛫](https://github.com/mf-3d/minor-browser-migrator)
 
 ### SNSアカウント
 - [Twitter (@made_in_apple_) 🐤](https://twitter.com/made_in_apple_)

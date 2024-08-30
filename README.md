@@ -9,12 +9,6 @@
 ## hello mf7cli!
 ![](https://user-images.githubusercontent.com/84224913/174292244-fccbc2e8-cefd-43f8-8dfa-cd91cda480fd.png)
 
-### 開発しているソフト
+### 🗂️ Projects
 - [Flune-Browser 🌏](https://github.com/mf-3d/flune-browser)
-- [Terrescot 🧐](https://github.com/mf-3d/terrescot)
 - [Minor-Browser Migrator 🛫](https://github.com/mf-3d/minor-browser-migrator)
-
-### SNSアカウント
-- [Twitter (@made_in_apple_) 🐤](https://twitter.com/made_in_apple_)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/made_in_apple_?style=for-the-badge)](https://twitter.com/intent/follow?screen_name=made_in_apple_)

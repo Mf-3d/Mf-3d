@@ -11,4 +11,6 @@
 
 ### 🗂️ Projects
 - [Flune-Browser 🌏](https://github.com/mf-3d/flune-browser)
+- [mf7cli-BBS 💭](https://github.com/mf-3d/mf7cli-bbs)
 - [Minor-Browser Migrator 🛫](https://github.com/mf-3d/minor-browser-migrator)
+- [mf7cli's Minecraft Server 🧱](#)

@@ -10,7 +10,7 @@
 ![](https://user-images.githubusercontent.com/84224913/174292244-fccbc2e8-cefd-43f8-8dfa-cd91cda480fd.png)
 
 ### 🗂️ Projects
-- [Flune-Browser 🌏](https://github.com/mf-3d/flune-browser)
-- [mf7cli-BBS 💭](https://github.com/mf-3d/mf7cli-bbs)
-- [Minor-Browser Migrator 🛫](https://github.com/mf-3d/minor-browser-migrator)
-- [mf7cli's Minecraft Server 🧱](#)
+- [🌏 Flune-Browser](https://github.com/mf-3d/flune-browser)
+- [💭 mf7cli-BBS](https://github.com/mf-3d/mf7cli-bbs)
+- [🛫 Minor-Browser Migrator](https://github.com/mf-3d/minor-browser-migrator)
+- [🧱 mf7cli's Minecraft Server](#)

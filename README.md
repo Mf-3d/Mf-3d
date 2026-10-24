@@ -6,10 +6,22 @@
 
 
 [😟😟.tk](https://xn--928ha.tk/) -->
-# 👋 Hello mf7cli!
-![](https://user-images.githubusercontent.com/84224913/174292244-fccbc2e8-cefd-43f8-8dfa-cd91cda480fd.png)
+
+# 👋 Hello, mf7cli!
+
+![](/assets/main-visual.png)
+
+<div style="text-align: center;">
 
 ## 🗂️ Projects
-- 🌏 [Flune-Browser](https://github.com/mf-3d/flune-browser)
-- 💭 [Cliibot](https://github.com/mf-3d/cliibot)
-- 🧱 [mf7cli's Minecraft Server](https://mf-3d.github.io/project/minecraft)
+
+🌏 [Flune-Browser](https://github.com/mf-3d/flune-browser)
+💭 [Cliibot](https://github.com/mf-3d/cliibot)
+🧱 [mf7cli's Minecraft Server](https://mf-3d.github.io/project/minecraft)
+
+
+## 📊 Stats
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mf-3d&layout=compact&langs_count=8&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=mf-3d&layout=compact&langs_count=8&theme=dark_github)
+
+</div>

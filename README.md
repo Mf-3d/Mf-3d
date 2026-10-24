@@ -11,16 +11,19 @@
 
 ![](/assets/main-visual.png)
 
-<div style="text-align: center;">
-
 ## 🗂️ Projects
+
+<div style="text-align: center;">
 
 🌏 [Flune-Browser](https://github.com/mf-3d/flune-browser)
 💭 [Cliibot](https://github.com/mf-3d/cliibot)
 🧱 [mf7cli's Minecraft Server](https://mf-3d.github.io/project/minecraft)
 
+</div>
 
 ## 📊 Stats
+
+<div style="text-align: center;">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mf-3d&layout=compact&langs_count=8&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=mf-3d&layout=compact&langs_count=8&theme=dark_github)
 
